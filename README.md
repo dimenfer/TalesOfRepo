@@ -1,5 +1,5 @@
-# TalesOf Repo
+# Repositório Tales of
 
 ![](talesof.png)
 
-Este repositório é um exemplo proveniente do curso de Git e GitHub.
+Repositório criado para usar no curso "Git e contribuições para projetos Open Source".
